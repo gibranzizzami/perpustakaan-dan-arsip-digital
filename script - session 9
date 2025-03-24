@@ -1,0 +1,100 @@
+# Skrip Presentasi: Jaringan Komputer dalam Otomasi Kearsipan
+
+## Slide 1 - Pembuka
+**Assalamu’alaikum warahmatullahi wabarakatuh.**  
+Selamat pagi/siang/sore Bapak/Ibu dan teman-teman sekalian.  
+Pada kesempatan kali ini, saya akan mempresentasikan materi mengenai **Jaringan Komputer dalam Otomasi Kearsipan**.  
+Materi ini sangat penting karena jaringan komputer memainkan peran utama dalam pengelolaan arsip secara otomatis.
+
+### Topik Pembahasan pada hari ini adalah:
+- Memahami perangkat jaringan dalam otomasi kearsipan.
+- Mengetahui berbagai jenis topologi jaringan.
+- Mengenal area jaringan dan cakupannya.
+- Memahami ancaman dan cara pengamanan jaringan.
+
+---
+
+## Slide 2 - Perangkat Jaringan (3 menit)
+Dalam jaringan komputer, terdapat dua jenis perangkat utama: **hardware (perangkat keras)** dan **software (perangkat lunak)**.
+
+### Hardware:
+- **Server**: Penyedia layanan data dalam jaringan.
+- **Terminal**: Perangkat pengguna untuk mengakses jaringan.
+- **Perangkat backup data**: Penyimpanan cadangan untuk mencegah kehilangan data.
+- **Perangkat koneksi jaringan**: Router, switch, dan modem.
+- **Perangkat tambahan**: Printer jaringan, scanner, dan perangkat lainnya yang mendukung jaringan.
+
+### Software:
+- **Sistem Operasi**: Windows Server, Linux, dll.
+- **Aplikasi Keamanan**: Antivirus, firewall, dan sistem enkripsi.
+- **Software Utility**: Aplikasi monitoring dan manajemen jaringan.
+
+---
+
+## Slide 3 - Topologi Jaringan (3 menit)
+Topologi jaringan menentukan bagaimana perangkat terhubung dalam sistem.
+
+- **Mesh Networking**: Setiap perangkat terhubung satu sama lain, memastikan jaringan tetap berjalan meskipun ada gangguan pada satu titik.
+- **Bus Networking**: Semua perangkat terhubung dalam satu jalur komunikasi utama yang disebut bus.
+- **Star Networking**: Semua perangkat terhubung ke satu panel pusat seperti hub atau switch.
+- **Ring Networking**: Perangkat terhubung dalam lingkaran sehingga data mengalir dalam satu arah tertentu.
+
+### Contoh Penggunaan:
+Dalam otomasi kearsipan, **star networking** sering digunakan karena kemudahan dalam pengelolaan dan pemeliharaan jaringan.
+
+---
+
+## Slide 4 - Area Jaringan (3 menit)
+Jaringan komputer dikategorikan berdasarkan cakupan wilayahnya:
+
+- **LAN (Local Area Network)**: Jaringan dalam satu kantor atau gedung.
+- **WAN (Wide Area Network)**: Jaringan yang mencakup antar kota atau negara.
+
+### Penerapan dalam Otomasi Arsip:
+- **LAN** digunakan dalam satu institusi untuk mengakses database arsip internal.
+- **WAN** digunakan untuk berbagi data antar kantor pusat dan cabang.
+
+---
+
+## Slide 5 - Ancaman Keamanan Jaringan (3 menit)
+Jaringan komputer dalam otomasi kearsipan rentan terhadap berbagai ancaman keamanan:
+
+- **Malware**: Program jahat yang merusak sistem.
+- **Virus**: Program yang menyebar dan menginfeksi perangkat.
+- **Trojan**: Program yang tampak normal tetapi memiliki fungsi tersembunyi untuk merusak sistem.
+- **Spyware**: Program yang memata-matai aktivitas pengguna tanpa izin.
+
+### Dampak Ancaman Ini:
+- Hilangnya data arsip penting.
+- Kebocoran informasi rahasia.
+- Gangguan operasional sistem arsip.
+
+---
+
+## Slide 6 - Pengamanan Jaringan (3 menit)
+Langkah-langkah keamanan jaringan yang harus diterapkan:
+
+### Keamanan Komputer:
+- Menggunakan enkripsi data.
+- Memasang firewall untuk mengontrol lalu lintas jaringan.
+- Menggunakan kata sandi yang kuat dan menggantinya secara berkala.
+
+### Keamanan Jaringan:
+- Memantau lalu lintas data secara berkala.
+- Membatasi akses hanya untuk pengguna yang berwenang.
+- Menggunakan sistem deteksi dan pencegahan intrusi (IDS/IPS).
+
+---
+
+## Slide 7 - Penutup dan Tanya Jawab (3 menit)
+Demikian presentasi saya mengenai **Jaringan Komputer dalam Otomasi Kearsipan**.  
+Dengan memahami jaringan komputer dan keamanannya, kita dapat meningkatkan efisiensi serta perlindungan terhadap data arsip yang kita kelola.
+
+### Kesimpulan:
+- Perangkat jaringan terdiri dari hardware dan software yang mendukung pengelolaan arsip.
+- Berbagai topologi jaringan digunakan sesuai kebutuhan.
+- LAN dan WAN membantu pengelolaan arsip di lingkungan lokal maupun luas.
+- Keamanan jaringan sangat penting untuk mencegah ancaman siber.
+
+Terima kasih atas perhatian Anda. Jika ada pertanyaan, saya siap menjawab.  
+**Wassalamu’alaikum warahmatullahi wabarakatuh.**
