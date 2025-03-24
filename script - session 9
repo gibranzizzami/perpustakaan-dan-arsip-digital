@@ -14,7 +14,7 @@ Materi ini sangat penting karena jaringan komputer memainkan peran utama dalam p
 
 ---
 
-## Slide 2 - Perangkat Jaringan (3 menit)
+## Slide 2 - Perangkat Jaringan 
 Dalam jaringan komputer, terdapat dua jenis perangkat utama: **hardware (perangkat keras)** dan **software (perangkat lunak)**.
 
 ### Hardware:
@@ -31,7 +31,7 @@ Dalam jaringan komputer, terdapat dua jenis perangkat utama: **hardware (perangk
 
 ---
 
-## Slide 3 - Topologi Jaringan (3 menit)
+## Slide 3 - Topologi Jaringan 
 Topologi jaringan menentukan bagaimana perangkat terhubung dalam sistem.
 
 - **Mesh Networking**: Setiap perangkat terhubung satu sama lain, memastikan jaringan tetap berjalan meskipun ada gangguan pada satu titik.
@@ -44,7 +44,7 @@ Dalam otomasi kearsipan, **star networking** sering digunakan karena kemudahan d
 
 ---
 
-## Slide 4 - Area Jaringan (3 menit)
+## Slide 4 - Area Jaringan 
 Jaringan komputer dikategorikan berdasarkan cakupan wilayahnya:
 
 - **LAN (Local Area Network)**: Jaringan dalam satu kantor atau gedung.
@@ -56,7 +56,7 @@ Jaringan komputer dikategorikan berdasarkan cakupan wilayahnya:
 
 ---
 
-## Slide 5 - Ancaman Keamanan Jaringan (3 menit)
+## Slide 5 - Ancaman Keamanan Jaringan 
 Jaringan komputer dalam otomasi kearsipan rentan terhadap berbagai ancaman keamanan:
 
 - **Malware**: Program jahat yang merusak sistem.
@@ -71,7 +71,7 @@ Jaringan komputer dalam otomasi kearsipan rentan terhadap berbagai ancaman keama
 
 ---
 
-## Slide 6 - Pengamanan Jaringan (3 menit)
+## Slide 6 - Pengamanan Jaringan 
 Langkah-langkah keamanan jaringan yang harus diterapkan:
 
 ### Keamanan Komputer:
@@ -86,7 +86,7 @@ Langkah-langkah keamanan jaringan yang harus diterapkan:
 
 ---
 
-## Slide 7 - Penutup dan Tanya Jawab (3 menit)
+## Slide 7 - Penutup dan Tanya Jawab 
 Demikian presentasi saya mengenai **Jaringan Komputer dalam Otomasi Kearsipan**.  
 Dengan memahami jaringan komputer dan keamanannya, kita dapat meningkatkan efisiensi serta perlindungan terhadap data arsip yang kita kelola.
 
