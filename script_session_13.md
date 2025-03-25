@@ -1,6 +1,6 @@
 # Skrip Presentasi: Infrastruktur Kearsipan
 
-## Slide 1: Pembuka (3 menit)
+## Slide 1: Pembuka
 Selamat pagi/siang/sore, rekan-rekan sekalian.  
 Hari ini, kita akan membahas topik penting dalam bidang kearsipan, yaitu **Infrastruktur Kearsipan**.  
 Materi ini diambil dari sesi ke-13 dalam program Ilmu Perpustakaan UIN Syarif Hidayatullah Jakarta.  
