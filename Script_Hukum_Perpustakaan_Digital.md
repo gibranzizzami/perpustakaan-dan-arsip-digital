@@ -4,7 +4,7 @@
 Hukum perpustakaan digital didasarkan pada prinsip-prinsip dasar perpustakaan yang dikembangkan oleh S. R. Ranganathan. Prinsip-prinsip ini tetap relevan dalam era digital dan dapat diadaptasi untuk mengelola sumber daya digital secara efektif.
 
 ## Asal-Usul Hukum Perpustakaan
-Perpustakaan sebagai lembaga penyimpanan dan penyebaran ilmu pengetahuan telah ada sejak zaman kuno, seperti di Mesopotamia, Mesir, dan Yunani. Pada era ini, aturan perpustakaan masih bersifat informal dan lebih berfokus pada perlindungan koleksi naskah kuno. Di perpustakaan Alexandria, misalnya, aturan ketat diterapkan untuk memastikan bahwa koleksi tidak hilang atau rusak. Namun, konsep hukum perpustakaan modern mulai berkembang seiring dengan munculnya hak kepemilikan atas karya intelektual.
+1. Perpustakaan sebagai lembaga penyimpanan dan penyebaran ilmu pengetahuan telah ada sejak zaman kuno, seperti di Mesopotamia, Mesir, dan Yunani. Pada era ini, aturan perpustakaan masih bersifat informal dan lebih berfokus pada perlindungan koleksi naskah kuno. Di perpustakaan Alexandria, misalnya, aturan ketat diterapkan untuk memastikan bahwa koleksi tidak hilang atau rusak. Namun, konsep hukum perpustakaan modern mulai berkembang seiring dengan munculnya hak kepemilikan atas karya intelektual.
 
 2. Pengaruh Hak Cipta dalam Hukum Perpustakaan
 Salah satu dasar hukum perpustakaan yang paling penting adalah hak cipta. Undang-Undang Hak Cipta pertama kali diterapkan pada tahun 1710 melalui Statute of Anne di Inggris. Undang-undang ini memberikan perlindungan bagi penulis atas karya mereka, tetapi juga menetapkan batasan yang memungkinkan perpustakaan untuk mendistribusikan dan menyediakan akses ke karya intelektual demi kepentingan publik. Dari sinilah konsep fair use atau penggunaan wajar berkembang, memungkinkan perpustakaan untuk menyalin dan mendistribusikan materi untuk tujuan pendidikan dan penelitian tanpa melanggar hak cipta.
@@ -40,15 +40,14 @@ Salah satu pendekatan untuk mengatasi tantangan hak cipta dalam perpustakaan dig
 4. Perlindungan Privasi Pengguna
 Perpustakaan digital mengumpulkan data pengguna, termasuk riwayat pencarian, preferensi bacaan, dan informasi pribadi lainnya. Oleh karena itu, penting untuk memiliki regulasi yang melindungi privasi pengguna. Beberapa undang-undang yang relevan dalam perlindungan data di perpustakaan digital meliputi:
 
-General Data Protection Regulation (GDPR) di Uni Eropa, yang mengatur bagaimana data pengguna dikumpulkan dan digunakan.
-
-Undang-Undang Perlindungan Data Pribadi (UU PDP) di Indonesia, yang memastikan bahwa data pribadi pengguna perpustakaan digital dilindungi dan tidak disalahgunakan.
+- General Data Protection Regulation (GDPR) di Uni Eropa, yang mengatur bagaimana data pengguna dikumpulkan dan digunakan.
+- Undang-Undang Perlindungan Data Pribadi (UU PDP) di Indonesia, yang memastikan bahwa data pribadi pengguna perpustakaan digital dilindungi dan tidak disalahgunakan.
 
 5. Model Lisensi dan Akses ke Koleksi Digital
 Berbeda dengan koleksi fisik yang dapat dibeli secara langsung, perpustakaan digital sering kali harus berurusan dengan model lisensi yang membatasi jumlah peminjaman dan akses pengguna. Ada beberapa model lisensi yang umum digunakan dalam perpustakaan digital, antara lain:
-Perpetual Access (Akses Selamanya): Perpustakaan membayar biaya satu kali untuk memiliki akses permanen ke materi digital.
-Subscription-Based (Berlangganan): Perpustakaan membayar biaya tahunan untuk mengakses konten dalam periode tertentu.
-Pay-Per-Use: Perpustakaan membayar berdasarkan jumlah penggunaan atau unduhan oleh pengguna.
+- Perpetual Access (Akses Selamanya): Perpustakaan membayar biaya satu kali untuk memiliki akses permanen ke materi digital.
+- Subscription-Based (Berlangganan): Perpustakaan membayar biaya tahunan untuk mengakses konten dalam periode tertentu.
+- Pay-Per-Use: Perpustakaan membayar berdasarkan jumlah penggunaan atau unduhan oleh pengguna.
 Peraturan terkait lisensi ini sering kali menimbulkan perdebatan karena keterbatasan yang diberlakukan penerbit terhadap perpustakaan digital.
 
 6. Digital Lending dan Pembatasan Penggandaan
