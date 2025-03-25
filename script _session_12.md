@@ -1,11 +1,6 @@
 # Skrip Presentasi: Arsip sebagai Informasi Terekam
 
-## Pembukaan (3 menit)
-Selamat pagi/siang/sore rekan-rekan. Pada kesempatan kali ini, saya akan membahas tentang **"Arsip sebagai Informasi Terekam."** Materi ini sangat penting dalam dunia pengarsipan dan administrasi karena arsip memiliki peran besar dalam menunjang berbagai aktivitas organisasi. Arsip bukan hanya sekadar dokumen yang tersimpan, tetapi juga menjadi bagian integral dalam pengambilan keputusan dan tata kelola informasi yang efektif. Dalam presentasi ini, kita akan membahas berbagai aspek mengenai arsip, mulai dari asal usulnya hingga sistem penyimpanannya.
-
----
-
-## 1. Asal Usul Arsip (3 menit)
+## 1. Asal Usul Arsip
 Arsip merupakan kumpulan dokumen yang dibuat dan disimpan oleh individu, organisasi, atau pemerintah sebagai bukti kegiatan dan transaksi yang telah terjadi. Arsip memiliki peran penting dalam menjaga rekam jejak sejarah, administrasi, dan hukum. Sejak zaman kuno, manusia telah mencatat informasi penting untuk berbagai keperluan, mulai dari pencatatan peristiwa, hukum, hingga perdagangan. Sejarah arsip menunjukkan bagaimana manusia mengembangkan sistem pencatatan dan penyimpanan informasi dari masa ke masa.
 
 1. Arsip di Peradaban Kuno
@@ -29,20 +24,17 @@ Pada abad ke-18 dan 19, dengan munculnya Revolusi Industri, jumlah dokumen admin
 5. Munculnya Arsip Modern dan Lembaga Arsip Nasional
 Pada abad ke-20, banyak negara mulai mendirikan lembaga arsip nasional untuk menyimpan dokumen negara dan sejarah nasional mereka. Misalnya:
 
-National Archives and Records Administration (NARA) di Amerika Serikat
-
-National Archives di Inggris
-
-Arsip Nasional Republik Indonesia (ANRI)
-
-Lembaga-lembaga ini bertugas mengelola, melestarikan, dan menyediakan akses terhadap dokumen sejarah yang penting bagi penelitian dan administrasi negara.
+- National Archives and Records Administration (NARA) di Amerika Serikat
+= National Archives di Inggris
+- Arsip Nasional Republik Indonesia (ANRI)
+- Lembaga-lembaga ini bertugas mengelola, melestarikan, dan menyediakan akses terhadap dokumen sejarah yang penting bagi penelitian dan administrasi negara.
 
 6. Digitalisasi dan Arsip di Era Modern
 Dengan berkembangnya teknologi informasi, sistem arsip mengalami perubahan besar. Banyak dokumen kini disimpan dalam bentuk arsip digital, yang memungkinkan akses lebih cepat dan penyimpanan lebih efisien. Arsip digital juga membantu melindungi dokumen dari kerusakan fisik akibat usia atau bencana alam.
 
 Selain itu, standar internasional seperti ISO 15489 tentang manajemen arsip dikembangkan untuk memastikan bahwa pengelolaan arsip dilakukan dengan baik. Teknologi seperti blockchain bahkan mulai digunakan untuk menjamin keamanan dan keaslian dokumen digital.
 
-## 2. Fungsi Arsip (3 menit)
+## 2. Fungsi Arsip
 1. Fungsi Administratif
 Salah satu fungsi utama arsip adalah mendukung kegiatan administrasi dalam organisasi atau instansi pemerintahan. Arsip berisi dokumen yang mencatat berbagai aktivitas, kebijakan, dan keputusan yang telah dibuat. Dengan adanya arsip, suatu organisasi dapat menelusuri kembali informasi penting yang berkaitan dengan operasionalnya, seperti laporan keuangan, surat menyurat, kebijakan internal, dan kontrak kerja. Arsip juga membantu dalam proses audit dan evaluasi untuk meningkatkan efisiensi kerja.
 
@@ -69,18 +61,16 @@ Arsip dapat membantu dalam manajemen risiko dengan menyediakan informasi penting
 
 ---
 
-## 3. Jenis Arsip (3 menit)
+## 3. Jenis Arsip
 1. Jenis Arsip Berdasarkan Fungsinya
 Berdasarkan fungsinya, arsip dapat dibedakan menjadi dua jenis utama:
 
 a. Arsip Dinamis
 Arsip dinamis adalah arsip yang masih digunakan dalam kegiatan administrasi sehari-hari di suatu organisasi atau lembaga. Arsip ini diperlukan untuk mendukung operasional dan pengambilan keputusan. Arsip dinamis dibagi lagi menjadi tiga kategori:
 
-Arsip Aktif: Arsip yang sering digunakan dan masih dibutuhkan dalam kegiatan administrasi. Contohnya adalah surat masuk dan keluar, laporan keuangan, serta dokumen perjanjian.
-
-Arsip Semi Aktif: Arsip yang frekuensi penggunaannya mulai menurun, tetapi masih diperlukan untuk referensi atau keperluan hukum. Contohnya adalah dokumen proyek yang sudah selesai tetapi masih bisa dijadikan bahan evaluasi.
-
-Arsip Inaktif: Arsip yang sudah jarang digunakan tetapi masih perlu disimpan karena memiliki nilai administratif, hukum, atau sejarah.
+- Arsip Aktif: Arsip yang sering digunakan dan masih dibutuhkan dalam kegiatan administrasi. Contohnya adalah surat masuk dan keluar, laporan keuangan, serta dokumen perjanjian.
+- Arsip Semi Aktif: Arsip yang frekuensi penggunaannya mulai menurun, tetapi masih diperlukan untuk referensi atau keperluan hukum. Contohnya adalah dokumen proyek yang sudah selesai tetapi masih bisa dijadikan bahan evaluasi.
+- Arsip Inaktif: Arsip yang sudah jarang digunakan tetapi masih perlu disimpan karena memiliki nilai administratif, hukum, atau sejarah.
 
 b. Arsip Statis
 Arsip statis adalah arsip yang sudah tidak digunakan dalam kegiatan administrasi sehari-hari tetapi memiliki nilai sejarah, hukum, atau informasi penting lainnya. Arsip ini biasanya disimpan di lembaga arsip nasional atau arsip daerah untuk kepentingan penelitian dan pelestarian budaya. Contohnya adalah dokumen keputusan presiden, piagam pendirian organisasi, dan catatan sejarah nasional.
@@ -123,18 +113,15 @@ Berdasarkan media tempat arsip disimpan, dapat dibedakan menjadi:
 
 a. Arsip Kertas
 Dokumen yang dicetak atau ditulis di atas kertas, seperti surat, buku, dan laporan. Arsip ini rentan terhadap kerusakan akibat faktor usia, kelembaban, dan suhu.
-
 b. Arsip Mikrofilm dan Mikrofiche
 Arsip ini berbentuk gulungan film atau lembaran kecil yang berisi gambar dokumen yang diperkecil. Biasanya digunakan untuk menyimpan arsip dalam jumlah besar dengan ukuran lebih ringkas.
-
 c. Arsip Digital
 Disimpan dalam bentuk file komputer, seperti dokumen PDF, e-book, dan basis data. Arsip digital memiliki keunggulan dalam efisiensi ruang penyimpanan dan kemudahan akses.
-
 d. Arsip Magnetik dan Optik
 Terdiri dari kaset, disket, CD, dan DVD yang digunakan untuk menyimpan dokumen suara, video, atau data komputer.
 ---
 
-## 4. Kegunaan Arsip (3 menit)
+## 4. Kegunaan Arsip
 1. Sebagai Sumber Informasi dan Referensi
 Arsip menyimpan berbagai dokumen penting yang dapat digunakan sebagai referensi dalam pengambilan keputusan. Dalam organisasi atau pemerintahan, arsip digunakan untuk menelusuri kebijakan terdahulu, melihat perkembangan suatu proyek, dan memastikan kesinambungan informasi. Misalnya, perusahaan dapat menggunakan arsip kontrak lama untuk meninjau perjanjian bisnis yang telah dibuat sebelumnya.
 
@@ -167,7 +154,7 @@ Arsip juga berperan dalam melindungi hak-hak individu. Misalnya, arsip keluarga 
 
 ---
 
-## 5. Nilai Guna Arsip (3 menit)
+## 5. Nilai Guna Arsip
 1. Nilai Guna Primer
 Nilai guna primer adalah nilai yang dimiliki oleh arsip selama masih digunakan dalam kegiatan administrasi dan operasional suatu organisasi atau lembaga. Nilai ini mencakup aspek legal, administratif, keuangan, serta ilmiah dan teknologi.
 
@@ -198,9 +185,7 @@ Arsip yang memiliki nilai pendidikan sering digunakan sebagai bahan ajar atau re
 d. Nilai Guna Kebudayaan
 Arsip juga memiliki nilai kebudayaan jika dokumen tersebut merepresentasikan warisan budaya suatu bangsa. Misalnya, manuskrip kuno, naskah sastra klasik, dan arsip tradisi lisan merupakan bagian dari dokumentasi budaya yang perlu dilestarikan untuk generasi mendatang.
 
----
-
-## 6. Sistem Penyimpanan Arsip (3 menit)
+## 6. Sistem Penyimpanan Arsip
 Sistem penyimpanan arsip adalah metode atau cara yang digunakan untuk menyusun, mengelola, dan menyimpan dokumen agar mudah ditemukan dan digunakan kembali saat dibutuhkan. Penyimpanan arsip yang baik membantu organisasi, perusahaan, maupun individu dalam menjaga informasi tetap tertata rapi, aman, serta dapat diakses dengan efisien.
 
 Terdapat berbagai metode dalam sistem penyimpanan arsip, yang umumnya disesuaikan dengan kebutuhan dan jenis dokumen yang dikelola. Artikel ini akan membahas prinsip, jenis, dan sistem penyimpanan arsip yang umum digunakan dalam berbagai institusi.
