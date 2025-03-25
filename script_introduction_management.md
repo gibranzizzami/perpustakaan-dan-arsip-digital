@@ -44,14 +44,15 @@ Memberikan akses layanan 24/7 dapat meningkatkan kepuasan pengguna. Dengan menye
 
 ## Komponen utama manajemen layanan digital
 1. Pengalaman Pengguna (User Experience - UX)
-a. Definisi
+### a. Definisi
 Pengalaman pengguna merujuk pada keseluruhan pengalaman yang dialami pengguna saat berinteraksi dengan layanan digital. Ini mencakup aspek-aspek seperti kemudahan penggunaan, kepuasan, dan efektivitas layanan.
 
-b. Pentingnya Pengalaman Pengguna
+### b. Pentingnya Pengalaman Pengguna
 Kepuasan Pelanggan: Pengalaman pengguna yang baik dapat meningkatkan kepuasan pelanggan, yang pada gilirannya dapat meningkatkan loyalitas dan retensi pengguna.
 Reputasi Merek: Layanan yang memberikan pengalaman positif dapat memperkuat reputasi merek dan menarik lebih banyak pengguna.
 Konversi dan Penjualan: Dalam konteks e-commerce, pengalaman pengguna yang baik dapat meningkatkan tingkat konversi dan penjualan.
-c. Strategi untuk Meningkatkan Pengalaman Pengguna
+
+### c. Strategi untuk Meningkatkan Pengalaman Pengguna
 Desain Antarmuka yang Intuitif: Menciptakan antarmuka yang mudah dinavigasi dan menarik secara visual.
 Pengujian Pengguna: Melakukan pengujian dengan pengguna nyata untuk mendapatkan umpan balik dan mengidentifikasi area yang perlu diperbaiki.
 Personalisasi: Menyediakan pengalaman yang dipersonalisasi berdasarkan preferensi dan perilaku pengguna.
