@@ -43,40 +43,44 @@ b. Layanan 24/7
 Memberikan akses layanan 24/7 dapat meningkatkan kepuasan pengguna. Dengan menyediakan dukungan pelanggan yang selalu tersedia, pengguna dapat mendapatkan bantuan kapan saja mereka membutuhkannya.
 
 ## Komponen utama manajemen layanan digital
-1. Pengalaman Pengguna (User Experience - UX)
-### a. Definisi
+### 1. Pengalaman Pengguna (User Experience - UX)
+#### a. Definisi
 Pengalaman pengguna merujuk pada keseluruhan pengalaman yang dialami pengguna saat berinteraksi dengan layanan digital. Ini mencakup aspek-aspek seperti kemudahan penggunaan, kepuasan, dan efektivitas layanan.
 
-### b. Pentingnya Pengalaman Pengguna
+#### b. Pentingnya Pengalaman Pengguna
 Kepuasan Pelanggan: Pengalaman pengguna yang baik dapat meningkatkan kepuasan pelanggan, yang pada gilirannya dapat meningkatkan loyalitas dan retensi pengguna.
 Reputasi Merek: Layanan yang memberikan pengalaman positif dapat memperkuat reputasi merek dan menarik lebih banyak pengguna.
 Konversi dan Penjualan: Dalam konteks e-commerce, pengalaman pengguna yang baik dapat meningkatkan tingkat konversi dan penjualan.
 
-### c. Strategi untuk Meningkatkan Pengalaman Pengguna
+#### c. Strategi untuk Meningkatkan Pengalaman Pengguna
 Desain Antarmuka yang Intuitif: Menciptakan antarmuka yang mudah dinavigasi dan menarik secara visual.
 Pengujian Pengguna: Melakukan pengujian dengan pengguna nyata untuk mendapatkan umpan balik dan mengidentifikasi area yang perlu diperbaiki.
 Personalisasi: Menyediakan pengalaman yang dipersonalisasi berdasarkan preferensi dan perilaku pengguna.
-2. Infrastruktur Teknologi
-a. Definisi
+
+### 2. Infrastruktur Teknologi
+#### a. Definisi
 Infrastruktur teknologi mencakup semua komponen teknis yang diperlukan untuk mendukung layanan digital, termasuk perangkat keras, perangkat lunak, jaringan, dan sistem penyimpanan.
 
-b. Pentingnya Infrastruktur Teknologi
+#### b. Pentingnya Infrastruktur Teknologi
 Kinerja Layanan: Infrastruktur yang kuat dan andal memastikan bahwa layanan dapat beroperasi dengan baik dan memberikan kinerja yang optimal.
 Skalabilitas: Infrastruktur yang baik memungkinkan organisasi untuk dengan mudah meningkatkan kapasitas layanan sesuai dengan pertumbuhan pengguna dan permintaan.
 Keamanan: Infrastruktur yang dirancang dengan baik dapat membantu melindungi data dan informasi sensitif dari ancaman siber.
-c. Strategi untuk Membangun Infrastruktur yang Kuat
+
+#### c. Strategi untuk Membangun Infrastruktur yang Kuat
 Investasi dalam Teknologi: Mengadopsi teknologi terbaru dan berinvestasi dalam perangkat keras dan perangkat lunak yang diperlukan.
 Cloud Computing: Memanfaatkan solusi cloud untuk meningkatkan fleksibilitas dan skalabilitas infrastruktur.
 Pemantauan dan Pemeliharaan: Melakukan pemantauan secara rutin dan pemeliharaan infrastruktur untuk memastikan kinerja yang optimal.
-3. Manajemen Proyek
-a. Definisi
+
+### 3. Manajemen Proyek
+#### a. Definisi
 Manajemen proyek adalah proses perencanaan, pelaksanaan, dan pengendalian proyek untuk mencapai tujuan tertentu dalam batas waktu dan anggaran yang ditetapkan.
 
-b. Pentingnya Manajemen Proyek
+#### b. Pentingnya Manajemen Proyek
 Pengelolaan Sumber Daya: Manajemen proyek yang efektif membantu dalam pengelolaan sumber daya, termasuk waktu, anggaran, dan tenaga kerja.
 Pencapaian Tujuan: Dengan manajemen proyek yang baik, organisasi dapat memastikan bahwa proyek diselesaikan sesuai dengan tujuan yang ditetapkan.
 Mitigasi Risiko: Manajemen proyek yang baik memungkinkan identifikasi dan mitigasi risiko yang mungkin muncul selama pelaksanaan proyek.
-c. Strategi untuk Manajemen Proyek yang Efektif
+
+#### c. Strategi untuk Manajemen Proyek yang Efektif
 Metodologi Agile: Mengadopsi metodologi Agile untuk meningkatkan fleksibilitas dan responsivitas terhadap perubahan.
 Penggunaan Alat Manajemen Proyek: Memanfaatkan alat manajemen proyek seperti Trello, Asana, atau Jira untuk memantau kemajuan dan kolaborasi tim.
 Komunikasi yang Efektif: Membangun saluran komunikasi yang jelas antara semua pemangku kepentingan untuk memastikan bahwa semua pihak terlibat dan terinformasi.
