@@ -7,32 +7,261 @@ Kodi adalah perangkat lunak *open-source* yang dirancang sebagai pusat media dig
 
 Harapannya, setelah presentasi ini, kita semua dapat memahami manfaat Kodi serta bagaimana teknologi ini dapat diterapkan dalam berbagai kebutuhan hiburan digital.
 
-## Slide 2: Sejarah Kodi (3 menit)
-Kodi memiliki sejarah yang panjang, dimulai dari pengembangannya oleh Yayasan XBOX sebagai perangkat lunak pemutar media untuk konsol mereka. Pada awalnya, Kodi hanya tersedia untuk XBOX, tetapi kemudian berkembang menjadi aplikasi mandiri yang dapat diinstal di berbagai platform.
+## Slide 2: Sejarah Kodi
+Kodi, yang awalnya dikenal sebagai XBMC (Xbox Media Center), adalah perangkat lunak media center yang memungkinkan pengguna untuk memutar dan mengelola berbagai jenis media digital, termasuk video, musik, gambar, dan podcast. Sejak diluncurkan, Kodi telah mengalami perkembangan yang signifikan dan menjadi salah satu platform media center paling populer di dunia. Artikel ini akan membahas sejarah Kodi, dari awal mula hingga menjadi aplikasi yang dikenal luas saat ini.
 
-Proyek ini tumbuh dari komunitas *open-source* yang ingin menciptakan solusi pemutar media yang fleksibel, dapat dikustomisasi, dan mendukung berbagai format multimedia. Dukungan komunitas yang kuat telah membuat Kodi terus berkembang dan tetap relevan hingga saat ini.
+1. Awal Mula: XBMC dan Peluncuran Pertama
+Kodi dimulai pada tahun 2002 sebagai proyek open-source yang dikembangkan oleh sekelompok penggemar di forum Xbox. Proyek ini bertujuan untuk menciptakan media center yang dapat digunakan pada konsol Xbox, yang pada saat itu memiliki kemampuan terbatas dalam hal pemutaran media. Pada tahun 2004, versi pertama dari XBMC dirilis, dan dengan cepat menarik perhatian pengguna Xbox yang ingin meningkatkan pengalaman media mereka.
 
-## Slide 3: Timeline Perkembangan Kodi (3 menit)
+a. Fitur Awal
+Versi awal XBMC menawarkan berbagai fitur, termasuk:
+
+Pemutaran Video dan Audio: Kemampuan untuk memutar berbagai format video dan audio.
+Antarmuka Pengguna yang Ramah: Desain antarmuka yang intuitif dan mudah digunakan.
+Dukungan untuk Jaringan: Kemampuan untuk mengakses media dari jaringan lokal.
+2. Perkembangan dan Peningkatan Fitur
+Seiring berjalannya waktu, XBMC terus berkembang dan mendapatkan pembaruan yang signifikan. Pada tahun 2006, proyek ini mulai menarik perhatian lebih banyak pengembang dan pengguna, yang berkontribusi pada peningkatan fitur dan stabilitas perangkat lunak.
+
+a. Dukungan untuk Berbagai Platform
+Pada tahun 2008, XBMC mulai mendukung platform lain selain Xbox, termasuk Windows, macOS, dan Linux. Ini membuka peluang bagi lebih banyak pengguna untuk mengakses dan menggunakan perangkat lunak ini di berbagai perangkat.
+
+b. Pengenalan Add-ons
+Salah satu fitur yang paling signifikan dari XBMC adalah pengenalan sistem add-ons, yang memungkinkan pengguna untuk menambahkan fungsionalitas tambahan ke perangkat lunak. Dengan add-ons, pengguna dapat mengakses konten dari berbagai sumber, termasuk layanan streaming, saluran TV, dan banyak lagi.
+
+3. Perubahan Nama Menjadi Kodi
+Pada tahun 2014, proyek ini resmi mengubah namanya dari XBMC menjadi Kodi. Perubahan nama ini mencerminkan evolusi perangkat lunak dari sekadar media center untuk Xbox menjadi platform media yang lebih luas dan fleksibel. Kodi menjadi lebih dikenal di kalangan pengguna di seluruh dunia, dan komunitas pengembangnya terus berkembang.
+
+
+## Slide 3: Timeline Perkembangan Kodi
 Perjalanan Kodi sebagai media player telah mengalami banyak perubahan, di antaranya:- **2002:** Kelompok *open-source* mengembangkan XBOX Media Player sebagai perangkat lunak pemutar media pertama untuk konsol XBOX.- **2003:** XBOX Media Player mengalami pembaruan besar dan berubah menjadi XBOX Media Center (XBMC), dengan fitur yang lebih canggih.- **2014:** XBMC berganti nama menjadi *Kodi*, yang menandai era baru dari perangkat lunak ini sebagai platform media yang lebih luas.
+2002: Awal Mula
+2002: Kodi dimulai sebagai proyek open-source oleh sekelompok pengembang yang ingin menciptakan media center untuk konsol Xbox. Proyek ini bertujuan untuk meningkatkan kemampuan pemutaran media Xbox yang terbatas.
+2004: Peluncuran Versi Pertama
+2004: Versi pertama XBMC dirilis. Perangkat lunak ini menawarkan kemampuan pemutaran video dan audio, serta antarmuka pengguna yang ramah.
+2006: Peningkatan Fitur
+2006: XBMC mulai menarik perhatian lebih banyak pengguna dan pengembang. Fitur baru ditambahkan, termasuk dukungan untuk berbagai format media dan kemampuan untuk mengakses media dari jaringan lokal.
+2008: Dukungan Multi-Platform
+2008: XBMC mulai mendukung platform lain selain Xbox, termasuk Windows, macOS, dan Linux. Ini membuka peluang bagi lebih banyak pengguna untuk mengakses perangkat lunak ini di berbagai perangkat.
+2010: Pengenalan Add-ons
+2010: Sistem add-ons diperkenalkan, memungkinkan pengguna untuk menambahkan fungsionalitas tambahan ke XBMC. Dengan add-ons, pengguna dapat mengakses konten dari berbagai sumber, termasuk layanan streaming.
+2014: Perubahan Nama Menjadi Kodi
+2014: Proyek ini resmi mengubah namanya dari XBMC menjadi Kodi. Perubahan nama ini mencerminkan evolusi perangkat lunak dari sekadar media center untuk Xbox menjadi platform media yang lebih luas dan fleksibel.
+2015: Peluncuran Kodi 15 (Isengard)
+2015: Kodi 15, yang dikenal sebagai Isengard, dirilis dengan berbagai peningkatan, termasuk antarmuka pengguna yang lebih baik, dukungan untuk pemutaran video 4K, dan peningkatan stabilitas.
+2016: Kodi 16 (Jarvis)
+2016: Kodi 16, yang dikenal sebagai Jarvis, dirilis dengan fitur baru seperti dukungan untuk pemutaran video 4K dan HDR, serta peningkatan dalam sistem add-ons.
+2017: Kodi 17 (Krypton)
+2017: Kodi 17, yang dikenal sebagai Krypton, dirilis dengan antarmuka pengguna yang sepenuhnya baru dan lebih responsif. Versi ini juga memperkenalkan fitur baru seperti dukungan untuk skin yang lebih baik dan peningkatan dalam pengelolaan add-ons.
+2018: Kodi 18 (Leia)
+2018: Kodi 18, yang dikenal sebagai Leia, dirilis dengan berbagai fitur baru, termasuk dukungan untuk pemutaran video 4K HDR, peningkatan dalam sistem add-ons, dan dukungan untuk perangkat TV pintar.
+2020: Kodi 19 (Matrix)
+2020: Kodi 19, yang dikenal sebagai Matrix, dirilis dengan peningkatan besar dalam performa dan stabilitas. Versi ini juga memperkenalkan dukungan untuk pemutaran video 8K dan peningkatan dalam sistem add-ons.
+2021: Peningkatan Berkelanjutan
+2021: Kodi terus memperbarui dan meningkatkan perangkat lunaknya dengan pembaruan kecil dan perbaikan bug. Komunitas pengembang aktif terus menambahkan fitur baru dan meningkatkan pengalaman pengguna.
+2022: Kodi 20 (Nexus)
+2022: Kodi 20, yang dikenal sebagai Nexus, dirilis dengan berbagai peningkatan dan fitur baru, termasuk dukungan untuk lebih banyak format media dan peningkatan dalam antarmuka pengguna.
 Sejak saat itu, Kodi terus berkembang dengan tambahan fitur dan kompatibilitas yang lebih luas.
 
-## Slide 4: Fitur-Fitur Kodi (3 menit)
-Kodi menawarkan berbagai fitur unggulan, seperti:1. **Media Support:** Mendukung berbagai format video, audio, dan gambar, dengan resolusi tinggi hingga 8K, serta subtitle otomatis.2. **Add-ons:** Memungkinkan pengguna menambahkan fitur baru seperti layanan streaming, prakiraan cuaca, hingga integrasi dengan perangkat pintar.3. **PVR (Personal Video Recorder):** Menyediakan fitur untuk menonton dan merekam siaran TV langsung.4. **Kustomisasi:** Pengguna dapat mengubah tampilan antarmuka Kodi sesuai dengan preferensi mereka.5. **Gaming:** Mendukung emulator yang memungkinkan pengguna memainkan berbagai jenis game langsung melalui Kodi.
+## Slide 4: Fitur-Fitur Kodi
+1. Antarmuka Pengguna yang Intuitif
+Kodi menawarkan antarmuka pengguna yang dirancang untuk memberikan pengalaman yang mudah dan menyenangkan. Beberapa aspek dari antarmuka pengguna Kodi meliputi:
 
-## Slide 5: Bahasa Pemrograman yang Digunakan (3 menit)
-Kodi dikembangkan dengan menggunakan berbagai bahasa pemrograman, di antaranya:- **C++** – Bahasa utama yang digunakan dalam pengembangan inti Kodi.- **XML** – Digunakan untuk mengatur struktur data dan tampilan antarmuka.- **Python** – Bahasa yang dipakai dalam pengembangan *add-ons* dan skrip otomatisasi.- **JavaScript, HTML, dan CSS** – Dipakai dalam pengembangan antarmuka web serta integrasi dengan sistem lainnya.
-Dengan kombinasi bahasa ini, Kodi dapat berjalan di berbagai perangkat dan sistem operasi dengan performa yang optimal.
+Desain Responsif: Antarmuka Kodi dapat disesuaikan untuk berbagai perangkat, termasuk TV, tablet, dan smartphone, sehingga pengguna dapat menikmati pengalaman yang konsisten di semua perangkat.
+Navigasi yang Mudah: Pengguna dapat dengan mudah menavigasi melalui menu dan kategori untuk menemukan konten yang mereka inginkan.
+2. Dukungan untuk Berbagai Format Media
+Kodi mendukung berbagai format media, memungkinkan pengguna untuk memutar hampir semua jenis file multimedia. Beberapa format yang didukung meliputi:
 
-## Slide 6: Implementasi Kodi (3 menit)
+Video: MP4, MKV, AVI, MOV, dan banyak lagi.
+Audio: MP3, FLAC, AAC, OGG, dan lainnya.
+Gambar: JPEG, PNG, GIF, dan format gambar lainnya.
+3. Sistem Add-ons yang Luas
+Salah satu fitur paling kuat dari Kodi adalah sistem add-ons yang memungkinkan pengguna untuk menambahkan fungsionalitas tambahan. Beberapa manfaat dari add-ons ini meliputi:
+
+Akses ke Konten Streaming: Pengguna dapat menginstal add-ons untuk mengakses layanan streaming populer seperti Netflix, YouTube, Hulu, dan banyak lagi.
+Kustomisasi: Pengguna dapat menambahkan add-ons untuk meningkatkan pengalaman menonton mereka, seperti skin, alat pemutar, dan alat pengelola media.
+4. Pemutaran Video Berkualitas Tinggi
+Kodi mendukung pemutaran video berkualitas tinggi, termasuk:
+
+4K dan HDR: Kodi memungkinkan pemutaran video dalam resolusi 4K dan High Dynamic Range (HDR), memberikan pengalaman menonton yang lebih baik dengan detail yang lebih tajam dan warna yang lebih hidup.
+Dukungan untuk Subtitle: Kodi mendukung berbagai format subtitle, memungkinkan pengguna untuk menambahkan subtitle ke video mereka dengan mudah.
+5. Pengelolaan Media yang Efisien
+Kodi menawarkan alat pengelolaan media yang kuat, termasuk:
+
+Katalogisasi Otomatis: Kodi dapat secara otomatis mengindeks dan mengorganisir koleksi media pengguna, membuatnya lebih mudah untuk menemukan dan mengakses konten.
+Penyimpanan Metadata: Kodi menyimpan informasi metadata tentang film, acara TV, dan musik, termasuk sinopsis, poster, dan informasi tambahan lainnya.
+6. Dukungan untuk Streaming Langsung
+Kodi memungkinkan pengguna untuk menonton siaran langsung melalui add-ons tertentu. Beberapa fitur terkait streaming langsung meliputi:
+
+Akses ke Saluran TV: Pengguna dapat menginstal add-ons untuk mengakses saluran TV langsung dari berbagai penyedia.
+Dukungan untuk IPTV: Kodi mendukung pemutaran IPTV, memungkinkan pengguna untuk menonton konten TV melalui internet.
+7. Fitur Pencarian dan Filter yang Canggih
+Kodi dilengkapi dengan fitur pencarian dan filter yang memudahkan pengguna untuk menemukan konten yang mereka inginkan. Beberapa fitur ini meliputi:
+
+Pencarian Berdasarkan Kata Kunci: Pengguna dapat mencari film, acara TV, atau musik dengan menggunakan kata kunci tertentu.
+Filter Berdasarkan Genre: Pengguna dapat memfilter konten berdasarkan genre, tahun rilis, atau rating, sehingga memudahkan mereka menemukan konten yang sesuai dengan preferensi mereka.
+8. Dukungan Multi-Platform
+Kodi dapat diinstal dan dijalankan di berbagai platform, termasuk:
+
+Windows: Tersedia untuk sistem operasi Windows.
+macOS: Dapat diinstal di komputer Mac.
+Linux: Tersedia untuk berbagai distribusi Linux.
+Android: Kodi dapat diunduh dan diinstal di perangkat Android, termasuk smartphone dan TV box.
+iOS: Tersedia untuk perangkat iOS, meskipun dengan beberapa batasan.
+9. Komunitas dan Dukungan yang Aktif
+Kodi memiliki komunitas pengguna dan pengembang yang aktif, yang menyediakan dukungan dan sumber daya tambahan. Beberapa manfaat dari komunitas ini meliputi:
+
+Forum Diskusi: Pengguna dapat bergabung dalam forum untuk berbagi pengalaman, tips, dan solusi untuk masalah yang dihadapi.
+Dokumentasi dan Tutorial: Tersedia banyak dokumentasi dan tutorial yang membantu pengguna memahami cara menggunakan Kodi dan memaksimalkan fungsionalitasnya.
+
+## Slide 5: Bahasa Pemrograman yang Digunakan
+Kodi adalah perangkat lunak media center open-source yang memungkinkan pengguna untuk memutar dan mengelola berbagai jenis media digital. Salah satu kekuatan utama Kodi terletak pada kemampuannya untuk diperluas melalui add-ons, yang memungkinkan pengguna untuk menambahkan fungsionalitas baru dan mengakses konten dari berbagai sumber. Dalam artikel ini, kita akan membahas bahasa pemrograman yang digunakan dalam pengembangan Kodi, serta bagaimana pengguna dapat membuat add-ons untuk meningkatkan pengalaman mereka.
+
+1. Bahasa Pemrograman yang Digunakan dalam Kodi
+Kodi dibangun menggunakan beberapa bahasa pemrograman, yang masing-masing memiliki peran tertentu dalam pengembangan perangkat lunak. Beberapa bahasa pemrograman utama yang digunakan dalam Kodi meliputi:
+
+a. C++
+Deskripsi: C++ adalah bahasa pemrograman yang digunakan untuk mengembangkan inti dari Kodi. Bahasa ini dikenal karena performanya yang tinggi dan kemampuannya untuk mengelola sumber daya sistem dengan efisien.
+Peran dalam Kodi: C++ digunakan untuk mengimplementasikan fungsionalitas dasar Kodi, termasuk pemutaran media, pengelolaan antarmuka pengguna, dan interaksi dengan perangkat keras.
+b. Python
+Deskripsi: Python adalah bahasa pemrograman tingkat tinggi yang dikenal karena sintaksisnya yang sederhana dan kemudahan penggunaannya. Python sering digunakan dalam pengembangan add-ons untuk Kodi.
+Peran dalam Kodi: Python digunakan untuk menulis skrip dan logika yang mengatur bagaimana add-ons berfungsi. Dengan Python, pengembang dapat membuat add-ons yang dapat berinteraksi dengan API, mengakses konten, dan mengelola data.
+c. XML
+Deskripsi: XML (eXtensible Markup Language) adalah bahasa markup yang digunakan untuk menyimpan dan mengatur data dalam format yang terstruktur.
+Peran dalam Kodi: XML digunakan dalam Kodi untuk mendefinisikan antarmuka pengguna, termasuk skin dan layout. File XML memungkinkan pengembang untuk mengatur elemen visual dan interaksi dalam Kodi.
+2. Pengembangan Add-ons untuk Kodi
+Salah satu fitur paling menarik dari Kodi adalah kemampuannya untuk diperluas melalui add-ons. Add-ons memungkinkan pengguna untuk menambahkan fungsionalitas baru dan mengakses konten dari berbagai sumber. Berikut adalah langkah-langkah dasar untuk mengembangkan add-ons untuk Kodi:
+
+a. Persiapan Lingkungan Pengembangan
+Sebelum mulai mengembangkan add-ons, pengembang perlu menyiapkan lingkungan pengembangan. Ini termasuk:
+
+Menginstal Kodi: Pastikan Kodi terinstal di perangkat Anda.
+Menginstal Python: Pastikan Anda memiliki versi Python yang sesuai untuk pengembangan add-ons.
+Mengunduh SDK Kodi: Kodi menyediakan Software Development Kit (SDK) yang berisi dokumentasi dan contoh untuk membantu pengembang.
+b. Membuat Struktur Add-on
+Setelah lingkungan siap, langkah selanjutnya adalah membuat struktur dasar untuk add-on. Struktur ini biasanya mencakup:
+
+Folder Add-on: Buat folder untuk add-on Anda.
+File addon.xml: File ini berisi metadata tentang add-on, termasuk nama, versi, dan deskripsi.
+File Python: Buat file Python yang berisi logika dan fungsionalitas add-on.
+c. Menulis Kode
+Dengan struktur dasar siap, pengembang dapat mulai menulis kode untuk add-on. Ini termasuk:
+
+Menggunakan API Kodi: Kodi menyediakan API yang memungkinkan add-on untuk berinteraksi dengan fungsionalitas Kodi, seperti pemutaran media, pengelolaan pustaka, dan akses ke pengaturan.
+Mengelola Data: Pengembang dapat menggunakan Python untuk mengelola data, seperti mengakses konten dari sumber eksternal atau menyimpan preferensi pengguna.
+d. Pengujian dan Debugging
+Setelah menulis kode, penting untuk menguji add-on untuk memastikan bahwa semuanya berfungsi dengan baik. Pengujian dapat dilakukan dengan:
+
+Menjalankan Add-on di Kodi: Instal add-on di Kodi dan uji fungsionalitasnya.
+Debugging: Gunakan alat debugging untuk mengidentifikasi dan memperbaiki masalah yang mungkin muncul.
+e. Distribusi Add-on
+Setelah add-on selesai dan diuji, pengembang dapat mendistribusikannya. Ini dapat dilakukan dengan:
+
+Membagikan File ZIP: Pengembang dapat mengemas add-on dalam format ZIP dan membagikannya kepada pengguna.
+Menambahkan ke Repository: Pengembang dapat mengajukan add-on mereka untuk ditambahkan ke repository resmi Kodi, sehingga lebih mudah diakses oleh pengguna lain.
+
+## Slide 6: Implementasi Kodi
 Kodi banyak digunakan dalam berbagai skenario hiburan, antara lain:- **Menonton koleksi digital pribadi:** Pengguna dapat mengatur dan menikmati koleksi video, musik, serta foto mereka.- **Home theater pribadi:** Kodi dapat diintegrasikan dengan sistem home theater untuk pengalaman menonton yang lebih baik.- **Streaming berbagai konten multimedia:** Dengan dukungan add-ons, Kodi dapat digunakan untuk menonton siaran langsung, podcast, bahkan mengakses layanan streaming populer.
+Kodi adalah perangkat lunak media center open-source yang memungkinkan pengguna untuk memutar dan mengelola berbagai jenis media digital, termasuk video, musik, gambar, dan podcast. Dengan antarmuka yang ramah pengguna dan dukungan untuk berbagai format media, Kodi telah menjadi pilihan utama bagi banyak pengguna yang ingin mengelola konten multimedia mereka. Artikel ini akan membahas langkah-langkah implementasi Kodi, mulai dari instalasi hingga pengaturan dan penggunaan add-ons.
+
+1. Persiapan Sebelum Instalasi
+Sebelum menginstal Kodi, ada beberapa langkah persiapan yang perlu dilakukan:
+
+a. Memilih Perangkat
+Kodi dapat diinstal di berbagai perangkat, termasuk:
+
+PC dan Laptop: Windows, macOS, dan Linux.
+Perangkat Mobile: Android dan iOS.
+TV Pintar: Beberapa TV pintar mendukung instalasi Kodi.
+Media Center Box: Seperti Raspberry Pi, Amazon Fire TV, dan Android TV box.
+b. Memastikan Koneksi Internet
+Koneksi internet yang stabil diperlukan untuk mengunduh Kodi dan add-ons, serta untuk streaming konten dari berbagai sumber.
+
+2. Instalasi Kodi
+Setelah persiapan selesai, langkah selanjutnya adalah menginstal Kodi. Berikut adalah langkah-langkah instalasi untuk beberapa platform umum:
+
+a. Instalasi di Windows
+Kunjungi situs resmi Kodi di kodi.tv.
+Pilih "Download" dan pilih versi Windows.
+Unduh file installer dan jalankan.
+Ikuti petunjuk di layar untuk menyelesaikan instalasi.
+b. Instalasi di macOS
+Kunjungi situs resmi Kodi di kodi.tv.
+Pilih "Download" dan pilih versi macOS.
+Unduh file DMG dan buka.
+Seret ikon Kodi ke folder Aplikasi untuk menyelesaikan instalasi.
+c. Instalasi di Android
+Buka Google Play Store di perangkat Android Anda.
+Cari "Kodi" dan pilih aplikasi resmi.
+Ketuk "Install" untuk mengunduh dan menginstal Kodi.
+d. Instalasi di Raspberry Pi
+Unduh file image Kodi (LibreELEC atau OSMC) dari situs resmi.
+Gunakan perangkat lunak seperti balenaEtcher untuk menulis image ke kartu SD.
+Masukkan kartu SD ke Raspberry Pi dan nyalakan perangkat.
+3. Pengaturan Awal Kodi
+Setelah instalasi selesai, langkah berikutnya adalah melakukan pengaturan awal Kodi:
+
+a. Antarmuka Pengguna
+Navigasi: Setelah membuka Kodi, Anda akan melihat antarmuka utama. Gunakan remote atau mouse untuk menavigasi menu.
+Pengaturan: Akses menu "Settings" untuk mengonfigurasi preferensi, termasuk bahasa, tampilan, dan pengaturan jaringan.
+b. Menambahkan Media
+Untuk memanfaatkan Kodi secara maksimal, Anda perlu menambahkan media ke pustaka:
+
+Menambahkan Video:
+
+Pilih "Videos" dari menu utama.
+Klik "Files" dan pilih "Add Videos".
+Telusuri folder tempat video disimpan dan tambahkan ke pustaka.
+Menambahkan Musik:
+
+Pilih "Music" dari menu utama.
+Klik "Files" dan pilih "Add Music".
+Telusuri folder tempat musik disimpan dan tambahkan ke pustaka.
+Menambahkan Gambar:
+
+Pilih "Pictures" dari menu utama.
+Klik "Files" dan pilih "Add Pictures".
+Telusuri folder tempat gambar disimpan dan tambahkan ke pustaka.
+c. Mengatur Pustaka Media
+Setelah menambahkan media, Kodi akan mulai mengindeks dan mengatur pustaka Anda. Anda dapat mengonfigurasi pengaturan pustaka untuk menyesuaikan cara media ditampilkan.
+
+4. Menginstal Add-ons
+Salah satu fitur paling menarik dari Kodi adalah kemampuannya untuk diperluas melalui add-ons. Berikut adalah langkah-langkah untuk menginstal add-ons:
+
+a. Menggunakan Repository Resmi
+Akses menu "Add-ons" dari antarmuka utama.
+Pilih "Install from repository".
+Pilih repository resmi Kodi dan telusuri kategori add-ons.
+Pilih add-on yang diinginkan dan klik "Install".
+b. Menggunakan Add-ons Pihak Ketiga
+Temukan URL repository pihak ketiga yang ingin Anda tambahkan.
+Akses menu "Settings" dan pilih "File Manager".
+Klik "Add Source" dan masukkan URL repository.
+Kembali ke menu "Add-ons" dan pilih "Install from zip file" untuk menginstal repository.
+Setelah repository terinstal, Anda dapat menginstal add-ons dari dalamnya.
+5. Menggunakan Kodi
+Setelah semua pengaturan selesai, Anda dapat mulai menggunakan Kodi untuk menikmati media Anda:
+
+a. Menonton Video
+Akses pustaka video Anda dari menu utama dan pilih film atau acara TV yang ingin ditonton.
+Gunakan kontrol pemutar untuk memutar, menjeda, atau menghentikan video.
+b. Mendengarkan Musik
+Akses pustaka musik Anda dan pilih album atau lagu yang ingin didengarkan.
+Gunakan kontrol pemutar untuk mengatur volume dan memilih lagu berikutnya.
+c. Menjelajahi Add-ons
+Akses add-ons yang telah diinstal untuk menjelajahi konten tambahan, seperti saluran TV, film, dan layanan streaming.
+6. Pemeliharaan dan Pembaruan
+Untuk memastikan Kodi berfungsi dengan baik, penting untuk melakukan pemeliharaan dan pembaruan secara berkala:
+
+Pembaruan Kodi: Periksa pembaruan perangkat lunak secara berkala untuk mendapatkan fitur terbaru dan perbaikan bug.
+Pembaruan Add-ons: Pastikan add-ons yang diinstal juga diperbarui untuk memastikan kompatibilitas dan fungsionalitas.
 Selain itu, banyak komunitas yang menggunakan Kodi sebagai solusi media server untuk berbagi konten dengan jaringan mereka.
 
-## Slide 7: Kesimpulan (3 menit)
+## Slide 7: Kesimpulan
 Kodi adalah platform *open-source* yang menawarkan fleksibilitas tinggi dalam pengelolaan media digital. Dengan fitur-fitur canggih dan komunitas pengembang yang aktif, Kodi terus berkembang menjadi solusi hiburan digital yang dapat disesuaikan sesuai dengan kebutuhan pengguna.
 
 Dukungan terhadap berbagai platform dan ekosistem *open-source* membuat Kodi semakin relevan di era digital saat ini.
 
-## Slide 8: Penutup (3 menit)
+## Slide 8: Penutup
 Demikian pemaparan mengenai *Deployment - Acknowledgement* dalam konteks Kodi. Semoga presentasi ini bermanfaat dan memberikan wawasan lebih luas mengenai potensi Kodi sebagai pusat hiburan digital.
 
 Terima kasih atas perhatian Bapak/Ibu sekalian. Jika ada pertanyaan, saya siap menjawab.
