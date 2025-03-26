@@ -129,14 +129,13 @@ Data sensitif, seperti informasi pengguna dan transaksi, dienkripsi untuk melind
 ### Pengelolaan Akses: 
 SLiMS memiliki sistem manajemen pengguna yang memungkinkan pengaturan hak akses berdasarkan peran, sehingga hanya pengguna yang berwenang yang dapat mengakses informasi tertentu.
 
-# Slide 6, 7 & 8: Fitur Utama SLiMS  
+# Slide 6  
 ## 1. Pengelolaan Koleksi
 Salah satu fitur utama SLiMS adalah kemampuannya untuk mengelola koleksi perpustakaan dengan efisien. Fitur ini mencakup:
 ### Katalogisasi:
 SLiMS memungkinkan pengguna untuk melakukan katalogisasi berbagai jenis bahan pustaka, termasuk buku, jurnal, majalah, dan media digital. Pengguna dapat mengisi metadata yang diperlukan, seperti judul, penulis, penerbit, dan tahun terbit.
 ### Pengelompokan Kategori:
 Pengguna dapat mengelompokkan koleksi berdasarkan kategori atau subkategori, memudahkan pencarian dan pengelolaan koleksi.
-
 ## 2. Sirkulasi dan Peminjaman
 Fitur sirkulasi SLiMS memungkinkan pengelolaan peminjaman dan pengembalian bahan pustaka dengan mudah:
 ### Peminjaman:
@@ -195,7 +194,7 @@ Pengguna dapat bergabung dalam forum untuk berbagi pengalaman, tips, dan solusi 
 Tersedia banyak dokumentasi dan tutorial yang membantu pengguna memahami cara menggunakan SLiMS dan memaksimalkan fungsionalitasnya.
 .  
 
-# Slide 9: Implementasi SLiMS  
+# Slide 7: Implementasi SLiMS  
 ## 1. Persiapan Sebelum Implementasi
 Sebelum mengimplementasikan SLiMS, ada beberapa langkah persiapan yang perlu dilakukan:
 
