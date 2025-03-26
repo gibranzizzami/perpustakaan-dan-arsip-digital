@@ -36,7 +36,7 @@ Perpustakaan digital lebih ramah lingkungan karena mengurangi penggunaan kertas,
 
 Baik perpustakaan tradisional maupun digital memiliki keunggulan dan kelemahan masing-masing. Perpustakaan tradisional masih relevan untuk mereka yang lebih menyukai pengalaman membaca fisik, sedangkan perpustakaan digital menawarkan fleksibilitas dan efisiensi dalam mengakses informasi.
 
-Di masa depan, model perpustakaan hibrida yang menggabungkan keduanya kemungkinan akan menjadi solusi terbaik, memberikan akses ke koleksi fisik dan digital secara bersamaan. 🚀📚
+Di masa depan, model perpustakaan hibrida yang menggabungkan keduanya kemungkinan akan menjadi solusi terbaik, memberikan akses ke koleksi fisik dan digital secara bersamaan.
 
 ## Slide 3: Apa Itu Perpustakaan Tradisional?  
 Perpustakaan tradisional adalah institusi yang mengumpulkan, menyimpan, mengelola, dan menyediakan akses ke koleksi buku fisik, majalah, surat kabar, dan dokumen cetak lainnya.
@@ -56,59 +56,59 @@ Perpustakaan Khusus di Lembaga Pemerintahan & Perusahaan
 2. Karakteristik Perpustakaan Tradisional
 Perpustakaan tradisional memiliki beberapa ciri khas yang membedakannya dari perpustakaan digital, antara lain:
 
-a. Koleksi Berbentuk Fisik
+a. Koleksi Berbentuk Fisik:
 Buku, majalah, jurnal, dan dokumen disimpan dalam bentuk cetak.
 Koleksi disusun dalam rak dan diatur berdasarkan sistem klasifikasi perpustakaan seperti DDC (Dewey Decimal Classification) atau UDC (Universal Decimal Classification).
 
-b. Ruang Baca dan Layanan Tatap Muka
+b. Ruang Baca dan Layanan Tatap Muka:
 Memiliki ruang baca untuk pengguna yang ingin membaca di tempat.
 Ada pustakawan yang bertugas memberikan layanan peminjaman, referensi, dan pencarian buku.
 
-c. Sistem Peminjaman dan Pengembalian Buku
+c. Sistem Peminjaman dan Pengembalian Buku:
 Anggota perpustakaan dapat meminjam buku dalam jangka waktu tertentu.
 Ada sistem denda bagi pengguna yang mengembalikan buku terlambat.
 
-d. Keterbatasan Waktu dan Lokasi
+d. Keterbatasan Waktu dan Lokasi:
 Hanya bisa diakses dalam jam operasional tertentu.
 Pengguna harus datang langsung ke perpustakaan untuk mendapatkan akses ke koleksi.
 
-3. Fungsi Perpustakaan Tradisional
+3. Fungsi Perpustakaan Tradisional:
 Perpustakaan tradisional memiliki beberapa fungsi utama, di antaranya:
 
-a. Sumber Informasi dan Pendidikan
+a. Sumber Informasi dan Pendidikan:
 Menyediakan koleksi buku dan referensi bagi pelajar, mahasiswa, dan peneliti.
 Membantu masyarakat dalam memperoleh pengetahuan secara langsung.
 
-b. Pelestarian Budaya dan Pengetahuan
+b. Pelestarian Budaya dan Pengetahuan:
 Menyimpan naskah kuno, arsip sejarah, dan dokumen penting untuk generasi mendatang.
 Menjadi pusat informasi bagi perkembangan ilmu pengetahuan dan kebudayaan.
 
-c. Meningkatkan Minat Baca
+c. Meningkatkan Minat Baca:
 Mendorong masyarakat untuk lebih aktif membaca dengan menyediakan koleksi yang beragam.
 
-d. Ruang Sosial dan Interaksi
+d. Ruang Sosial dan Interaksi:
 Menyediakan tempat bagi diskusi, seminar, dan kegiatan edukatif lainnya.
 Memfasilitasi interaksi antara pustakawan dan pengguna.
 
-4. Kelebihan Perpustakaan Tradisional
+4. Kelebihan Perpustakaan Tradisional:
 Meskipun perkembangan teknologi telah membawa perpustakaan digital, perpustakaan tradisional masih memiliki banyak keunggulan, antara lain:
 
-a. Pengalaman Membaca yang Lebih Nyaman
+a. Pengalaman Membaca yang Lebih Nyaman:
 Banyak orang lebih nyaman membaca buku fisik dibandingkan layar digital.
 Tidak menyebabkan kelelahan mata seperti membaca di perangkat elektronik.
 
-b. Koneksi Sosial yang Lebih Erat
+b. Koneksi Sosial yang Lebih Erat:
 Memungkinkan interaksi langsung antara pengguna dan pustakawan.
 Menjadi tempat belajar bersama dan berbagi informasi.
 
-c. Keamanan dan Keaslian Sumber
+c. Keamanan dan Keaslian Sumber:
 Dokumen fisik lebih sulit dimanipulasi dibandingkan dengan dokumen digital.
 Buku cetak tetap bisa dibaca tanpa tergantung pada listrik atau koneksi internet.
 
-d. Menyediakan Akses ke Koleksi Langka
+d. Menyediakan Akses ke Koleksi Langka:
 Beberapa buku atau naskah kuno hanya tersedia dalam bentuk fisik dan belum didigitalkan.
 
-5. Kekurangan Perpustakaan Tradisional
+5. Kekurangan Perpustakaan Tradisional:
 Namun, perpustakaan tradisional juga memiliki beberapa keterbatasan yang membuatnya kurang fleksibel dibandingkan perpustakaan digital, seperti:
 
 a. Keterbatasan Aksesibilitas
